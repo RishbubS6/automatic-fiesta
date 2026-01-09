@@ -18,8 +18,8 @@ title: Open Coding
 description: "Class of 2026"
 owner_name: John Mortensen
 github_username: jm1021 
-github_repo: "student" 
-baseurl: "/student" 
+github_repo: "automatic-fiesta" 
+baseurl: "/automatic-fiesta" # the subpath of your site, e.g. /blog
 future: true
 
 # Build settings
